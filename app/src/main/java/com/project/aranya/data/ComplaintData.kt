@@ -39,7 +39,7 @@ enum class ContactPreference {
 enum class CloudinaryFileType {
     IMAGE,
     VIDEO,
-    DOCUMENT, // For PDFs, DOCs etc.
+    DOCUMENT,
     RAW     // For other types like TXT or unrecognized
 }
 
